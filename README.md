@@ -1,4 +1,4 @@
-# Workshop AzureML interfaces graphiques
+# Workshop Azure ML interfaces graphiques
 Workshop interfaces graphiques Azure ML
 
 Azure ML Service: https://azure.microsoft.com/en-us/services/machine-learning-service/
